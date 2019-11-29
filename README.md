@@ -1,1 +1,3 @@
-## This is a practice setup
+# This is a practice setup
+
+of the JS Promise
